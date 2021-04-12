@@ -42,10 +42,7 @@
     font-size : 0.9em;
   }
   
-  #social {
-    position: absolute;
-    width: auto;
-    top: 82px;
-    left: 4px;
+  .col-3 p {
+    column-count: 2;
   }
 }

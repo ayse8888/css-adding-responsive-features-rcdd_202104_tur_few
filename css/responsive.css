@@ -39,7 +39,7 @@
 
 @media (max-width: 750px) {
   #navbar nav a {
-    width : 90%;
+    font-size : 0.9em;
   }
   
   #social {

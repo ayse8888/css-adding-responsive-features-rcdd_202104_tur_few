@@ -38,7 +38,7 @@
 
 
 @media (max-width: 750px) {
-  .wrapper {
+  #navbar nav a {
     width : 90%;
   }
   

@@ -13,8 +13,8 @@
 
 
 @media (max-width: 900px) {
-  .wrapper {
-    width : 90%;
+  body {
+    font-size : 90%;
   }
   
   #social {

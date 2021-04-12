@@ -34,3 +34,18 @@
     column-count: 2;
   }
 }
+
+
+
+@media (max-width: 1108px) {
+  .wrapper {
+    width : 90%;
+  }
+  
+  #social {
+    position: absolute;
+    width: auto;
+    top: 82px;
+    left: 4px;
+  }
+}

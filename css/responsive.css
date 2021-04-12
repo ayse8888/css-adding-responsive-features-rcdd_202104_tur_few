@@ -31,6 +31,6 @@
   }
   
   col-3 p {
-    column-
+    column-count: 2;
   }
 }
